@@ -1,5 +1,6 @@
 📚 Library SQL Project
 
+![image alt](https://github.com/srijantechie/Library_SQL_Project/blob/main/library.jpg?raw=true)
 
 
 A robust SQL-based Library Management System built using PostgreSQL. This project simulates a real-world library database with relational integrity, covering operations such as book issues, returns, employee activity, overdue tracking, and performance reporting.
