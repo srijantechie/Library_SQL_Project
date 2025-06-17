@@ -9,19 +9,19 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 
 🚀 Project Highlights
 
---Database Design: Structured with normalized tables for books, members, employees, branches, and transaction logs.
+1.Database Design: Structured with normalized tables for books, members, employees, branches, and transaction logs.
 
---Data Manipulation: Includes comprehensive INSERT, UPDATE, and DELETE operations with sample data for over 30 books, multiple branches, employees, and members.
+2.Data Manipulation: Includes comprehensive INSERT, UPDATE, and DELETE operations with sample data for over 30 books, multiple branches, employees, and members.
 
---Complex Queries: Implements advanced SQL operations like JOIN, GROUP BY, subqueries, CTAS, and date arithmetic.
+3.Complex Queries: Implements advanced SQL operations like JOIN, GROUP BY, subqueries, CTAS, and date arithmetic.
 
---Stored Procedures:
+4.Stored Procedures:
 
 -issue_book: Automates the book issuance while validating availability.
 
 -add_return_records: Updates return logs and changes book status.
 
---Performance Reports:
+5.Performance Reports:
 
 -Branch-wise issued/returned count and revenue.
 
