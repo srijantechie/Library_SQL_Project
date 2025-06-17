@@ -2,6 +2,8 @@
 
 A robust SQL-based Library Management System built using PostgreSQL. This project simulates a real-world library database with relational integrity, covering operations such as book issues, returns, employee activity, overdue tracking, and performance reporting.
 
+
+
 🚀 Project Highlights
 
 --Database Design: Structured with normalized tables for books, members, employees, branches, and transaction logs.
@@ -27,6 +29,8 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 -Overdue Detection: Identifies books not returned beyond a 30-day limit.
 
 
+
+
 📁 Files Included
 
 --TableCreation_and_Data_Insert.sql: Complete schema and sample data inserts.
@@ -41,6 +45,8 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 
 
 
+
+
 📌 Use Cases
 
 --Academic SQL project demonstration
@@ -52,6 +58,9 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 --Practical examples for learning PostgreSQL
 
 
+
+
+
 🛠 Tech Stack
 
 --PostgreSQL (PL/pgSQL)
@@ -59,6 +68,9 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 --SQL (DDL, DML, DQL)
 
 --pgModeler (Schema design)
+
+
+
 
 
 🌟 Impact Created
