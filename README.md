@@ -1,6 +1,6 @@
 Library Management System using SQL Project 
 
-![Screenshot]("C:\Users\Hp\Pictures\Screenshots\Screenshot 2025-06-17 230229.png")
+![Dashboard Screenshot]("C:\Users\Hp\Pictures\Screenshots\Screenshot 2025-06-17 230229.png")
 
 Project Overview
 
