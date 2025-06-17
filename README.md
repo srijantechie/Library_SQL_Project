@@ -4,56 +4,61 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 
 🚀 Project Highlights
 
-Database Design: Structured with normalized tables for books, members, employees, branches, and transaction logs.
+--Database Design: Structured with normalized tables for books, members, employees, branches, and transaction logs.
 
-Data Manipulation: Includes comprehensive INSERT, UPDATE, and DELETE operations with sample data for over 30 books, multiple branches, employees, and members.
+--Data Manipulation: Includes comprehensive INSERT, UPDATE, and DELETE operations with sample data for over 30 books, multiple branches, employees, and members.
 
-Complex Queries: Implements advanced SQL operations like JOIN, GROUP BY, subqueries, CTAS, and date arithmetic.
+--Complex Queries: Implements advanced SQL operations like JOIN, GROUP BY, subqueries, CTAS, and date arithmetic.
 
-Stored Procedures:
+--Stored Procedures:
 
-issue_book: Automates the book issuance while validating availability.
+-issue_book: Automates the book issuance while validating availability.
 
-add_return_records: Updates return logs and changes book status.
+-add_return_records: Updates return logs and changes book status.
 
-Performance Reports:
+--Performance Reports:
 
-Branch-wise issued/returned count and revenue.
+-Branch-wise issued/returned count and revenue.
 
-Active members table creation.
+-Active members table creation.
 
-Top employees by book transactions.
+-Top employees by book transactions.
 
-Overdue Detection: Identifies books not returned beyond a 30-day limit.
+-Overdue Detection: Identifies books not returned beyond a 30-day limit.
+
 
 📁 Files Included
 
-TableCreation_and_Data_Insert.sql: Complete schema and sample data inserts.
+--TableCreation_and_Data_Insert.sql: Complete schema and sample data inserts.
 
-Library_questions.sql: Core SQL tasks and solutions (INSERT, UPDATE, DELETE, reporting).
+--Library_questions.sql: Core SQL tasks and solutions (INSERT, UPDATE, DELETE, reporting).
 
-Library_Advance_Questions.sql: Advanced queries and stored procedures.
+--Library_Advance_Questions.sql: Advanced queries and stored procedures.
 
-SCHEMA_Library.pgerd: Visual schema diagram (pgModeler).
+--SCHEMA_Library.pgerd: Visual schema diagram (pgModeler).
 
-library.jpg: Library-themed project cover image.
+--library.jpg: Library-themed project cover image.
+
+
 
 📌 Use Cases
 
-Academic SQL project demonstration
+--Academic SQL project demonstration
 
-Interview preparation (joins, subqueries, procedures)
+--Interview preparation (joins, subqueries, procedures)
 
-Reference for relational database modeling
+--Reference for relational database modeling
 
-Practical examples for learning PostgreSQL
+--Practical examples for learning PostgreSQL
+
 
 🛠 Tech Stack
-PostgreSQL (PL/pgSQL)
 
-SQL (DDL, DML, DQL)
+--PostgreSQL (PL/pgSQL)
 
-pgModeler (Schema design)
+--SQL (DDL, DML, DQL)
+
+--pgModeler (Schema design)
 
 
 🌟 Impact Created
