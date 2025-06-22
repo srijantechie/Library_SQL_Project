@@ -1,4 +1,4 @@
-📚 Library SQL Project
+## Library SQL Project
 
 ![image alt](https://github.com/srijantechie/Library_SQL_Project/blob/main/library.jpg?raw=true)
 
@@ -7,21 +7,23 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 
 
 
-🚀 Project Highlights
+## Project Highlights
 
-1.Database Design: Structured with normalized tables for books, members, employees, branches, and transaction logs.
+## 1.Database Design:
+Structured with normalized tables for books, members, employees, branches, and transaction logs.
 
-2.Data Manipulation: Includes comprehensive INSERT, UPDATE, and DELETE operations with sample data for over 30 books, multiple branches, employees, and members.
+## 2.Data Manipulation:
+Includes comprehensive INSERT, UPDATE, and DELETE operations with sample data for over 30 books, multiple branches, employees, and members.
 
-3.Complex Queries: Implements advanced SQL operations like JOIN, GROUP BY, subqueries, CTAS, and date arithmetic.
+## 3.Complex Queries: Implements advanced SQL operations like JOIN, GROUP BY, subqueries, CTAS, and date arithmetic.
 
-4.Stored Procedures:
+## 4.Stored Procedures:
 
 -issue_book: Automates the book issuance while validating availability.
 
 -add_return_records: Updates return logs and changes book status.
 
-5.Performance Reports:
+## 5.Performance Reports:
 
 -Branch-wise issued/returned count and revenue.
 
@@ -34,7 +36,7 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 
 
 
-📁 Files Included
+## Files Included
 
 --TableCreation_and_Data_Insert.sql: Complete schema and sample data inserts.
 
@@ -49,8 +51,7 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 
 
 
-
-📌 Use Cases
+## Use Cases
 
 --Academic SQL project demonstration
 
@@ -64,7 +65,7 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 
 
 
-🛠 Tech Stack
+## Tech Stack
 
 --PostgreSQL (PL/pgSQL)
 
@@ -76,17 +77,22 @@ A robust SQL-based Library Management System built using PostgreSQL. This projec
 
 
 
-🌟 Impact Created
+## Impact Created
 
-✅ Real-World Simulation: Replicates essential operations of a working library, providing hands-on experience with data modeling, inventory control, and member management.
+## Real-World Simulation:
+Replicates essential operations of a working library, providing hands-on experience with data modeling, inventory control, and member management.
 
-🧠 Skill Enhancement: Reinforces knowledge of SQL fundamentals and advances users' abilities with stored procedures, aggregate reporting, and multi-table joins.
+## Skill Enhancement:
+Reinforces knowledge of SQL fundamentals and advances users' abilities with stored procedures, aggregate reporting, and multi-table joins.
 
-📈 Data-Driven Decisions: Enables insights into library performance, such as most issued books, branch efficiency, overdue trends, and active user behavior.
+## Data-Driven Decisions:
+Enables insights into library performance, such as most issued books, branch efficiency, overdue trends, and active user behavior.
 
-🔁 Automation & Integrity: Introduces automation through stored procedures to maintain data consistency and reduce manual error.
+## Automation & Integrity:
+Introduces automation through stored procedures to maintain data consistency and reduce manual error.
 
-🎓 Educational Utility: Ideal for students, educators, and aspiring data professionals to use as a foundation for academic projects, assignments, or interview preparation.
+## Educational Utility: 
+Ideal for students, educators, and aspiring data professionals to use as a foundation for academic projects, assignments, or interview preparation.
 
 
 
