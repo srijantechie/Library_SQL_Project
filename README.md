@@ -15,7 +15,8 @@ Structured with normalized tables for books, members, employees, branches, and t
 ## 2.Data Manipulation:
 Includes comprehensive INSERT, UPDATE, and DELETE operations with sample data for over 30 books, multiple branches, employees, and members.
 
-## 3.Complex Queries: Implements advanced SQL operations like JOIN, GROUP BY, subqueries, CTAS, and date arithmetic.
+## 3.Complex Queries:
+Implements advanced SQL operations like JOIN, GROUP BY, subqueries, CTAS, and date arithmetic.
 
 ## 4.Stored Procedures:
 
@@ -79,19 +80,19 @@ Includes comprehensive INSERT, UPDATE, and DELETE operations with sample data fo
 
 ## Impact Created
 
-## Real-World Simulation:
+1.Real-World Simulation:
 Replicates essential operations of a working library, providing hands-on experience with data modeling, inventory control, and member management.
 
-## Skill Enhancement:
+2. Skill Enhancement:
 Reinforces knowledge of SQL fundamentals and advances users' abilities with stored procedures, aggregate reporting, and multi-table joins.
 
-## Data-Driven Decisions:
+3. Data-Driven Decisions:
 Enables insights into library performance, such as most issued books, branch efficiency, overdue trends, and active user behavior.
 
-## Automation & Integrity:
+4. Automation & Integrity:
 Introduces automation through stored procedures to maintain data consistency and reduce manual error.
 
-## Educational Utility: 
+5. Educational Utility: 
 Ideal for students, educators, and aspiring data professionals to use as a foundation for academic projects, assignments, or interview preparation.
 
 
